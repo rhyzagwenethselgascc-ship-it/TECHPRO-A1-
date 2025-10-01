@@ -25,4 +25,3 @@ public class SeatworkEight {
                                                                                                                                                                                                                                                                                                         System.out.println("Your grade is: " + grade);
                                                                                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                                                                                             }
-}

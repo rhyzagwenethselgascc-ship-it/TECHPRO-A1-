@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SeatworkThirteen  {
+public class SeatworkTen {
 	
 	public static String calculateGrade(double percentage) {
 	    if (percentage >= 90) return "A";
@@ -50,4 +50,3 @@ public class SeatworkThirteen  {
 		    scanner.close();
 	}
 }
-

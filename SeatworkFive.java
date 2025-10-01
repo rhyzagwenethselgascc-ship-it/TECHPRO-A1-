@@ -1,4 +1,4 @@
-public class Main {
+public class SeatworkFive {
         public static void main(String[] args) {
 
                     System.out.println("Maria Juliana P Cardiño");
@@ -12,6 +12,3 @@ public class Main {
                                             System.out.println("Happy new year!");
                                 }
                             }
-                                    }
-        }
-}
