@@ -12,4 +12,3 @@ public class ShapeAreaCalculator {
                                             		System.out.println("Rectangle area (5.5 x 3.2): " + calc.calculateArea(5.5, 3.2));
                                                     	}
                                                         }
-}

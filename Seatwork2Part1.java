@@ -15,4 +15,3 @@ class Seatwork2 {
                                                         System.out.println(myFastCar.brand + " " + myFastCar.modelName);
                                                             }
                                                             }
-}

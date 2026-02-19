@@ -21,4 +21,3 @@ public class PaymentProcessor {
                                                                                             processor.processPayment(1299.00, "PHP", "Credit Card");
                                                                                                 }
                                                                                                 }
-}
