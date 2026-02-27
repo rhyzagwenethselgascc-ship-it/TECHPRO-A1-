@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Seatwork11task1 {
+public class Seatwork11t {
     public static void main(String[] args) {
 
         // WEIGHT CONVERSION PROGRAM

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Task7 {
+public class Seatwork11Task7 {
 
     public static void main(String[] args) {
 

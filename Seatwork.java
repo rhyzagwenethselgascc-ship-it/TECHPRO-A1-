@@ -1,4 +1,4 @@
-public class Main {
+public class Seatwork7taskA {
     public static void main(String[] args) {
         int number1 = 20; 
         int number2 = 0;

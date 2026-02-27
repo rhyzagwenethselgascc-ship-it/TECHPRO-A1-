@@ -6,7 +6,7 @@ class Student {
 	}
 }
 
-public class Main {
+public class Seatwork6 {
 	public static void main(String[] args) {
 		Student s1 = null;
 
