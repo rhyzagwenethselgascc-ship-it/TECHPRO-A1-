@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Seaask3 {
+public class Seatwork11task3 {
     public static void main(String[] args) {
 
         Random random = new Random();
