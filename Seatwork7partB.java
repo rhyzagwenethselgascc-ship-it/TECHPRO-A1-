@@ -4,7 +4,7 @@ class PasswordException extends Exception {
     }
 }
 
-public class file {
+public class Seatwork7partB {
     static void checkPassword(String password) throws PasswordException {
         if (password.length() < 8) {
             throw new PasswordException("Password must be at least 8 characters long.");

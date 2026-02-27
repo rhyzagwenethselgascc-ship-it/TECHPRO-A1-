@@ -21,7 +21,7 @@ class Student {
     }
 }
 
-public class GarbageCollectorDemo {
+public class Seatwork9 {
 
     public static void main(String[] args) {  // Fixed: Added space in args
 

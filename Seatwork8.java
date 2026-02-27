@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class SW8 {
+public class Seatwork8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] data = {50, 100, 150};

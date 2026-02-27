@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Main {
+public class Seatwork11task2 {
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -20,24 +21,42 @@ public class Main {
         System.out.print("Enter the second number: ");
         num2 = scanner.nextDouble();
 
-        switch(operator){
-            case '+' -> result = num1 + num2;
-            case '-' -> result = num1 - num2;
-            case '*' -> result = num1 * num2;
-            case '/' -> {
-                if(num2 == 0){
+        switch (operator) {
+            case '+':
+                result = num1 + num2;
+                break;
+
+            case '-':
+                result = num1 - num2;
+                break;
+
+            case '*':
+                result = num1 * num2;
+                break;
+
+            case '/':
+                if (num2 == 0) {
                     System.out.println("Cannot divide by zero!");
                     validOperation = false;
-                }
-                else{
+                } else {
                     result = num1 / num2;
                 }
-            }
-            case '^' -> result = Math.pow(num1, num2);
-            default -> {
+                break;
+
+            case '^':
+                result = Math.pow(num1, num2);
+                break;
+
+            default:
                 System.out.println("Invalid operator!");
                 validOperation = false;
-            }
+                break;
         }
+
+        if (validOperation) {
+            System.out.println("Result: " + result);
+        }
+
+        scanner.close();
     }
 }

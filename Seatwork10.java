@@ -1,4 +1,4 @@
-public class Program {
+public class Seatwork10 {
     public static void main(String[] args) {
         try {
             int[] x = {1, 2};   
